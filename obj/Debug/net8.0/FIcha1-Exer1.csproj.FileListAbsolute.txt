@@ -1,0 +1,14 @@
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\bin\Debug\net8.0\FIcha1-Exer1.exe
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\bin\Debug\net8.0\FIcha1-Exer1.deps.json
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\bin\Debug\net8.0\FIcha1-Exer1.runtimeconfig.json
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\bin\Debug\net8.0\FIcha1-Exer1.dll
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\bin\Debug\net8.0\FIcha1-Exer1.pdb
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\obj\Debug\net8.0\FIcha1-Exer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\obj\Debug\net8.0\FIcha1-Exer1.AssemblyInfoInputs.cache
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\obj\Debug\net8.0\FIcha1-Exer1.AssemblyInfo.cs
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\obj\Debug\net8.0\FIcha1-Exer1.csproj.CoreCompileInputs.cache
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\obj\Debug\net8.0\FIcha1-Exer1.dll
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\obj\Debug\net8.0\refint\FIcha1-Exer1.dll
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\obj\Debug\net8.0\FIcha1-Exer1.pdb
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\obj\Debug\net8.0\FIcha1-Exer1.genruntimeconfig.cache
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\FIcha1-Exer1\obj\Debug\net8.0\ref\FIcha1-Exer1.dll
